@@ -1,0 +1,143 @@
+[
+  {
+    "id": "m1",
+    "name": "Idly",
+    "price": "30",
+    "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+    "image": "images/idly.jpeg"
+  },
+  {
+    "id": "m2",
+    "name": "Pav Bhaji",
+    "price": "90",
+    "description": "A spicy mashed vegetable curry served with buttered, toasted pav (bread rolls) and garnished with onions and lemon.",
+    "image": "images/Pav Bhaji.jpeg"
+  },
+  {
+    "id": "m3",
+    "name": "Rasmalai",
+    "price": "250",
+    "description": "Succulent steak cooked to your preference, served with crispy golden fries and herb butter.",
+    "image": "images/Rasmalai.png"
+  },
+  {
+    "id": "m4",
+    "name": "Chicken Biryani",
+    "price": "240",
+    "description": "Aromatic basmati rice layered with spiced chicken and herbs, slow-cooked to create a rich, flavorful one-pot dish.",
+    "image": "images/chicken Biryani.jpg"
+  },
+  {
+    "id": "m5",
+    "name": "Chicken Tikka",
+    "price": "180",
+    "description": "Succulent chunks of chicken marinated in spiced yogurt, skewered and grilled to perfection in a traditional tandoor.",
+    "image": "images/Chicken-Tikka.png"
+  },
+  {
+    "id": "m6",
+    "name": "Fish Curry",
+    "price": "220",
+    "description": "Fresh fish simmered in a rich, spiced coconut or tomato-based gravy, typical of coastal Indian cuisine.",
+    "image": "images/Fish Curry.jpg"
+  },
+  {
+    "id": "m7",
+    "name": "Margherita Pizza",
+    "price": "429",
+    "description": "A classic pizza with fresh mozzarella, tomatoes, and basil on a thin and crispy crust.",
+    "image": "images/margherita-pizza.jpg"
+  },
+  {
+    "id": "m8",
+    "name": "Crab Curry",
+    "price": "258",
+    "description": "An assortment of fresh sushi rolls including California, Spicy Tuna, and Eel Avocado.",
+    "image": "images/Crab Curry.jpg"
+  },
+  {
+    "id": "m9",
+    "name": "Chicken Curry",
+    "price": "200",
+    "description": "Tender chicken pieces cooked in a spiced onion-tomato gravy, slow-simmered for deep flavor.",
+    "image": "images/chicken-curry.jpg"
+  },
+  {
+    "id": "m10",
+    "name": "Palak Panneer",
+    "price": "170",
+    "description": "Creamy spinach curry cooked with soft cubes of paneer (Indian cottage cheese) and aromatic spices.",
+    "image": "images/Palak-Paneer.jpeg"
+  },
+  {
+    "id": "m11",
+    "name": "Pasta",
+    "price": "350",
+    "description": " Penne pasta tossed in a rich tomato sauce, garnished with cherry tomatoes, grated Parmesan, and fresh herbs.",
+    "image": "images/Pasta.jpg"
+  },
+  {
+    "id": "m12",
+    "name": "Mushroom Curry",
+    "price": "179.99",
+    "description": "A warming bowl of ramen with miso broth, tender pork, soft-boiled egg, and green onions.",
+    "image": "images/Mushroom-curry.jpeg"
+  },
+  {
+    "id": "m13",
+    "name": "Veggie Burger",
+    "price": "249",
+    "description": "Layers of breaded eggplant, marinara sauce, and melted mozzarella and parmesan cheeses.",
+    "image": "images/veggie-burger.jpg"
+  },
+  
+  {
+    "id": "m14",
+    "name": "Samosa",
+    "price": "20",
+    "description": "A crispy, deep-fried pastry filled with spiced potatoes and peas, often served with tangy chutneys.",
+    "image": "images/Samosa.jpeg"
+  },
+  {
+    "id": "m15",
+    "name": "Chicken Shawarma Wrap",
+    "price": "80",
+    "description": "Tender slices of marinated chicken wrapped in a soft pita with fresh veggies and creamy garlic sauce.",
+    "image": "images/Shawarma.jpeg"
+  },
+  {
+    "id": "m16",
+    "name": "Spring Potato",
+    "price": "60",
+    "description": "Crispy spiral-cut potatoes seasoned with herbs and spices.",
+    "image": "images/Spring Potato.jpg"
+  },
+  {
+    "id": "m17",
+    "name": "Jalebi",
+    "price": "30",
+    "description": "Crispy, spiral-shaped dessert soaked in saffron-infused sugar syrup, served hot and sweet.",
+    "image": "images/Jalebi.jpeg"
+  },
+  {
+    "id": "m18",
+    "name": "Pancake Stack",
+    "price": "150",
+    "description": "Fluffy pancakes stacked high, drizzled with maple syrup and topped with fresh berries.",
+    "image": "images/pancake-stack.jpg"
+  },
+  {
+    "id": "m19",
+    "name": "Lemon Cheesecake",
+    "price": "700",
+    "description": "A creamy cheesecake with a tangy lemon flavor, served on a crumbly biscuit base.",
+    "image": "images/lemon-cheesecake.jpg"
+  },
+  {
+    "id": "m20",
+    "name": "Chocolate Brownie",
+    "price": "100",
+    "description": "A rich and fudgy brownie, topped with a scoop of vanilla ice cream and chocolate sauce.",
+    "image": "images/chocolate-brownie.jpg"
+  }
+]
